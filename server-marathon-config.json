@@ -7,7 +7,7 @@
         {
           "id": "/sellnews-api/apps/api",
           "cpus": 0.5,
-          "mem": 1048,
+          "mem": 1560,
           "instances": 2,
           "container": {
             "type": "DOCKER",
